@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lumi Figure Skating Assistant//Training Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Training Schedule: Under-Rotation Correction Block
+X-WR-CALDESC:AI-Generated Figure Skating Training Schedule
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:d4769789-a9e0-47a6-9f70-cb1672b4a5e2@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251109T123000
+DTEND:20251109T143000
+SUMMARY:On-Ice: Foundational technique for 3F & 3Lz rotation
+DESCRIPTION:Sunday\, November 09\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- Foundational technique for 3F & 3Lz rotation\\n\\nSchedule:\\nBackwards stroking (15 min)\, 3F/3Lz entry pattern drills (no jump\, 20x each)\, 1-foot spinner drills for rotation axis\, execute weekend jump quota with focus on clean takeoffs.
+LOCATION:Ice Rink
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:On-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: On-Ice: Foundational technique for 3F & 3Lz rotation
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0b73a0ae-923e-4986-8545-1f43c06c7192@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251109T123000
+DTEND:20251109T143000
+SUMMARY:Off-Ice: Rotation mechanics and recovery
+DESCRIPTION:Sunday\, November 09\, 2025\\nDuration: 120 minutes\\nIntensity: Low\\n\\nFocus:\\n- Rotation mechanics and recovery\\n\\nSchedule:\\nSpinner spins (60 min)\, program run-throughs (30 min)\, deep stretching/flexibility (30 min).
+LOCATION:Training Facility
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:Off-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: Off-Ice: Rotation mechanics and recovery
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:da892229-d101-4202-a6dd-a92a2b838ca1@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251110T133000
+DTEND:20251110T153000
+SUMMARY:On-Ice: 3F & 3T under-rotation correction\, program integration
+DESCRIPTION:Monday\, November 10\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- 3F & 3T under-rotation correction\, program integration\\n\\nSchedule:\\nBackwards stroking (15 min)\, 2F/2T drills with delayed rotation (15x each)\, execute weekday jump quota\, 3x SP run-throughs\, 1x LP (first half).
+LOCATION:Ice Rink
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:On-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: On-Ice: 3F & 3T under-rotation correction\, program integration
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:53de5322-0b85-4df1-8e32-6b04e4a7a883@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251110T133000
+DTEND:20251110T153000
+SUMMARY:Off-Ice: Explosive power and rotational speed
+DESCRIPTION:Monday\, November 10\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- Explosive power and rotational speed\\n\\nSchedule:\\nSpinner spins (60 min)\, strength/conditioning: plyometric box jumps (30 min)\, program run-throughs (30 min).
+LOCATION:Training Facility
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:Off-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: Off-Ice: Explosive power and rotational speed
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5a3092fe-d97b-42cd-9017-8fa0b017ca69@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251111T133000
+DTEND:20251111T153000
+SUMMARY:On-Ice: 3Lz rotation axis\, 3F+2T consistency
+DESCRIPTION:Tuesday\, November 11\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- 3Lz rotation axis\, 3F+2T consistency\\n\\nSchedule:\\nBackwards stroking (15 min)\, 3Lz harness work to feel vertical axis (10x)\, execute weekday jump quota\, 3x SP run-throughs\, 1x LP (second half). Video review all 3Lz attempts.
+LOCATION:Ice Rink
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:On-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: On-Ice: 3Lz rotation axis\, 3F+2T consistency
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f8bf8626-4581-4131-93a6-5809da5fa537@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251111T133000
+DTEND:20251111T153000
+SUMMARY:Off-Ice: Core stability for tight air position
+DESCRIPTION:Tuesday\, November 11\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- Core stability for tight air position\\n\\nSchedule:\\nSpinner spins (60 min)\, strength/conditioning: core circuit (planks\, leg raises) (30 min)\, flexibility (30 min).
+LOCATION:Training Facility
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:Off-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: Off-Ice: Core stability for tight air position
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad906d1-a1ef-4b55-8388-b27db7cd201c@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251112T133000
+DTEND:20251112T153000
+SUMMARY:On-Ice: Executing corrected technique under fatigue
+DESCRIPTION:Wednesday\, November 12\, 2025\\nDuration: 120 minutes\\nIntensity: High\\n\\nFocus:\\n- Executing corrected technique under fatigue\\n\\nSchedule:\\nBackwards stroking (15 min)\, perform "critical" jumps (3F\, 3Lz\, 3T) out of footwork patterns\, execute weekday jump quota\, 1x full LP run-through\, 3x SP run-throughs.
+LOCATION:Ice Rink
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:On-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: On-Ice: Executing corrected technique under fatigue
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0e6240ae-5d02-4dfd-8ccd-93c83ac86ff7@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251112T133000
+DTEND:20251112T153000
+SUMMARY:Off-Ice: Maximum rotational output and stamina
+DESCRIPTION:Wednesday\, November 12\, 2025\\nDuration: 120 minutes\\nIntensity: High\\n\\nFocus:\\n- Maximum rotational output and stamina\\n\\nSchedule:\\nSpinner spins: speed focus (60 min)\, strength/conditioning: HIIT circuit (30 min)\, program run-throughs (30 min).
+LOCATION:Training Facility
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:Off-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: Off-Ice: Maximum rotational output and stamina
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c67e2fc2-2440-4edc-b5ad-2b26d98073ec@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251113T133000
+DTEND:20251113T153000
+SUMMARY:On-Ice: 3Lo rotation and pressure testing
+DESCRIPTION:Thursday\, November 13\, 2025\\nDuration: 120 minutes\\nIntensity: High\\n\\nFocus:\\n- 3Lo rotation and pressure testing\\n\\nSchedule:\\nBackwards stroking (15 min)\, "pressure set": land 3 clean 3Lz in a row\, execute weekday jump quota\, 3x SP run-throughs\, 1x LP (sections with emphasis on jump combinations).
+LOCATION:Ice Rink
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:On-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: On-Ice: 3Lo rotation and pressure testing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:66108c76-f3ea-43f2-a537-b628fc3610d3@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251113T133000
+DTEND:20251113T153000
+SUMMARY:Off-Ice: Reinforcing air position and recovery
+DESCRIPTION:Thursday\, November 13\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- Reinforcing air position and recovery\\n\\nSchedule:\\nSpinner spins (60 min)\, program run-throughs (30 min)\, deep stretching/flexibility (30 min).
+LOCATION:Training Facility
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:Off-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: Off-Ice: Reinforcing air position and recovery
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a6796398-79c7-481e-a930-bf4cec48fb10@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251114T133000
+DTEND:20251114T153000
+SUMMARY:On-Ice: Consistency and solidifying technical gains
+DESCRIPTION:Friday\, November 14\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- Consistency and solidifying technical gains\\n\\nSchedule:\\nBackwards stroking (15 min)\, execute weekday jump quota with focus on quality over quantity\, 3x SP run-throughs aiming for 100% clean rotation\, 1x LP (first half).
+LOCATION:Ice Rink
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:On-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: On-Ice: Consistency and solidifying technical gains
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b1ae6a-273b-48f7-b015-f47e59a53d18@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251114T133000
+DTEND:20251114T153000
+SUMMARY:Off-Ice: Active recovery and mental rehearsal
+DESCRIPTION:Friday\, November 14\, 2025\\nDuration: 120 minutes\\nIntensity: Low\\n\\nFocus:\\n- Active recovery and mental rehearsal\\n\\nSchedule:\\nSpinner spins: balance/control focus (60 min)\, strength/conditioning: light bodyweight circuit (30 min)\, program visualization (30 min).
+LOCATION:Training Facility
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:Off-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: Off-Ice: Active recovery and mental rehearsal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49dff49d-c914-4b1d-acf1-a6f88ca672d1@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251115T140000
+DTEND:20251115T160000
+SUMMARY:On-Ice: Mock competition simulation and performance quality
+DESCRIPTION:Saturday\, November 15\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- Mock competition simulation and performance quality\\n\\nSchedule:\\nBackwards stroking (15 min)\, execute weekend jump quota\, perform 1 SP run-through under "competition" conditions (no restarts)\, then 2 more for practice. Maintain spins/footwork.
+LOCATION:Ice Rink
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:On-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: On-Ice: Mock competition simulation and performance quality
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8c7d756a-58c4-4a35-a82d-f8969375afb1@lumi-skating-assistant.com
+DTSTAMP:20251109T131710Z
+DTSTART:20251115T140000
+DTEND:20251115T160000
+SUMMARY:Off-Ice: Rotational endurance and full-body flexibility
+DESCRIPTION:Saturday\, November 15\, 2025\\nDuration: 120 minutes\\nIntensity: Moderate\\n\\nFocus:\\n- Rotational endurance and full-body flexibility\\n\\nSchedule:\\nSpinner spins (60 min)\, program run-throughs (30 min)\, full-body stretching (30 min).
+LOCATION:Training Facility
+STATUS:CONFIRMED
+PRIORITY:5
+CATEGORIES:Off-Ice Training,Figure Skating
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Training session in 30 minutes: Off-Ice: Rotational endurance and full-body flexibility
+END:VALARM
+END:VEVENT
+END:VCALENDAR
