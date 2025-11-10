@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:84552519-5890-4f63-a2a8-c336654138f9@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:e9a5f88f-797e-4937-98af-2071aa5467f3@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251110T100000
 DTEND;TZID=America/New_York:20251110T130000
 SUMMARY:On-Ice: 3F & 3Lz under-rotation breakdown
@@ -42,8 +42,8 @@ DESCRIPTION:Training session in 30 minutes: On-Ice: 3F & 3Lz under-rotation brea
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fe3cb0dd-83d2-4175-88fb-53e511f02ee8@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:c87158e8-e9a8-46a8-aa0d-09d938080505@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251110T140000
 DTEND;TZID=America/New_York:20251110T163000
 SUMMARY:Off-Ice: Rotational speed and core stability\, spins
@@ -60,8 +60,8 @@ DESCRIPTION:Training session in 30 minutes: Off-Ice: Rotational speed and core s
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a04f6555-6a06-4815-9eba-4463102ffc53@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:b38e10d5-90b9-4a2d-8dbf-5d4e5a825795@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251111T100000
 DTEND;TZID=America/New_York:20251111T120000
 SUMMARY:On-Ice: 3T & 3Lo technique\, maintaining spins
@@ -78,8 +78,8 @@ DESCRIPTION:Training session in 30 minutes: On-Ice: 3T & 3Lo technique\, maintai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:731d2d06-3895-4aa7-92cb-1a0e2c4d0360@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:51caefa8-b770-4224-971d-5dc616bf0e77@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251111T140000
 DTEND;TZID=America/New_York:20251111T160000
 SUMMARY:Off-Ice: Air position and flexibility
@@ -96,8 +96,8 @@ DESCRIPTION:Training session in 30 minutes: Off-Ice: Air position and flexibilit
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eb59a0d8-3786-4af3-b0ce-0519be0a2ded@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:bf14fc61-191b-45b4-b8b2-fa5b3dc80129@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251112T100000
 DTEND;TZID=America/New_York:20251112T120000
 SUMMARY:On-Ice: Combination rotation (3F+3T) and 3Lz power
@@ -114,8 +114,8 @@ DESCRIPTION:Training session in 30 minutes: On-Ice: Combination rotation (3F+3T)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a7e32326-f9f3-4655-9eb5-f858a819ee54@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:e23fe594-571a-4ae5-8158-56487eb6b64e@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251112T140000
 DTEND;TZID=America/New_York:20251112T160000
 SUMMARY:Off-Ice: Explosive power and rotation endurance
@@ -132,8 +132,8 @@ DESCRIPTION:Training session in 30 minutes: Off-Ice: Explosive power and rotatio
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7e96e279-7fba-441d-ba50-51e50e52a6d4@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:069d748b-0077-4a62-b168-d16977b73dcc@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251113T100000
 DTEND;TZID=America/New_York:20251113T120000
 SUMMARY:On-Ice: Program integration and consistency
@@ -150,8 +150,8 @@ DESCRIPTION:Training session in 30 minutes: On-Ice: Program integration and cons
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:919df813-e090-48ad-a7c9-50e5306a4a08@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:a3f04801-1394-4ebf-98a9-d688d22f9b7f@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251113T140000
 DTEND;TZID=America/New_York:20251113T160000
 SUMMARY:Off-Ice: Recovery and mental rehearsal
@@ -168,8 +168,8 @@ DESCRIPTION:Training session in 30 minutes: Off-Ice: Recovery and mental rehears
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3cd51a55-e682-4032-90f1-80f66e12a616@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:26decacf-b911-4859-a56f-6c0b1cbc3702@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251114T100000
 DTEND;TZID=America/New_York:20251114T120000
 SUMMARY:On-Ice: Simulated competition pressure on critical elements
@@ -186,8 +186,8 @@ DESCRIPTION:Training session in 30 minutes: On-Ice: Simulated competition pressu
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1bf39e09-a95a-4272-86fd-745d9508a43a@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:653f2d69-f660-4776-ad51-211ac6f0e80d@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251114T140000
 DTEND;TZID=America/New_York:20251114T160000
 SUMMARY:Off-Ice: Full body conditioning
@@ -204,8 +204,8 @@ DESCRIPTION:Training session in 30 minutes: Off-Ice: Full body conditioning
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:914a58af-6d77-4c27-a74d-8aa97a536271@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:4b78f0bf-11fa-42ec-927c-fe1998d06d31@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251115T100000
 DTEND;TZID=America/New_York:20251115T120000
 SUMMARY:On-Ice: Stamina and execution under fatigue
@@ -222,8 +222,8 @@ DESCRIPTION:Training session in 30 minutes: On-Ice: Stamina and execution under 
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:04ea344e-f2eb-4a15-b9a4-c918ff1f2593@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:ef05a569-8d54-4c49-8485-cccc58f140d4@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251115T140000
 DTEND;TZID=America/New_York:20251115T160000
 SUMMARY:Off-Ice: Power endurance and recovery
@@ -240,8 +240,8 @@ DESCRIPTION:Training session in 30 minutes: Off-Ice: Power endurance and recover
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ca28c62e-132a-4b06-97d5-325a9e76e689@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:d1ccba5c-1d6c-4f8e-b958-bc7353390b79@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251116T100000
 DTEND;TZID=America/New_York:20251116T120000
 SUMMARY:On-Ice: Active recovery and technical refinement
@@ -258,8 +258,8 @@ DESCRIPTION:Training session in 30 minutes: On-Ice: Active recovery and technica
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b7dde38e-390b-4e65-9b8d-0b6d622b88df@lumi-skating-assistant.com
-DTSTAMP:20251109T200958Z
+UID:c2813469-3548-487e-ac81-1f26f4297858@lumi-skating-assistant.com
+DTSTAMP:20251109T185241Z
 DTSTART;TZID=America/New_York:20251116T140000
 DTEND;TZID=America/New_York:20251116T160000
 SUMMARY:Off-Ice: Flexibility and week-in-review
