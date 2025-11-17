@@ -1,278 +1,249 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Lumi Figure Skating Assistant//Training Schedule//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Training Schedule: Rotation Correction & Stability Intensive
-X-WR-CALDESC:AI-Generated Figure Skating Training Schedule
-X-WR-TIMEZONE:America/New_York
-BEGIN:VTIMEZONE
-TZID:America/New_York
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-TZNAME:EDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-TZNAME:EST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-END:VTIMEZONE
+PRODID:-//GPT Scheduler//EN
 BEGIN:VEVENT
-UID:f06c922a-fecf-49bb-a5fe-fd9da0053b63@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251110T100000
-DTEND;TZID=America/New_York:20251110T130000
-SUMMARY:On-Ice: 3F & 3Lz under-rotation breakdown
-DESCRIPTION:Monday\, November 10\, 2025\nDuration: 180 minutes\nIntensity: High\n\nFocus:\n- 3F & 3Lz under-rotation breakdown\n\nSchedule:\nBackwards stroking (15 min)\, 3F entry pattern drills (20 min)\, 15x 3Lz attempts with video review\, 20x 3F+3T attempts focusing on snap\, 3x SP run-throughs (focus on jump rotation\, not performance)\, LP first half run-through.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Ice Rink
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:On-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: On-Ice: 3F & 3Lz under-rotation breakdown
-END:VALARM
+UID:1@gpt
+DTSTART:20251117T113000
+DTEND:20251117T124500
+SUMMARY:On-Ice Training - Foundational Control & Right-Side Awareness
+DESCRIPTION:Foundational Control & Right-Side Awareness
 END:VEVENT
 BEGIN:VEVENT
-UID:411ff1bd-3b93-45e4-91f1-322f6871e1c9@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251110T140000
-DTEND;TZID=America/New_York:20251110T160000
-SUMMARY:Off-Ice: Rotational speed and core stability
-DESCRIPTION:Monday\, November 10\, 2025\nDuration: 120 minutes\nIntensity: Moderate\n\nFocus:\n- Rotational speed and core stability\n\nSchedule:\nSpinner spins (60 min)\, 30 min strength (plyometrics\, jump boxes)\, 30 min flexibility & foam rolling.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Training Facility
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:Off-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: Off-Ice: Rotational speed and core stability
-END:VALARM
+UID:2@gpt
+DTSTART:20251117T140000
+DTEND:20251117T145000
+SUMMARY:On-Ice Training - Foundational Control & Right-Side Awareness
+DESCRIPTION:Foundational Control & Right-Side Awareness
 END:VEVENT
 BEGIN:VEVENT
-UID:c937e97d-7405-4584-97de-71ec855e05f7@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251111T100000
-DTEND;TZID=America/New_York:20251111T130000
-SUMMARY:On-Ice: 3T & 3Lo technique\, maintaining spins
-DESCRIPTION:Tuesday\, November 11\, 2025\nDuration: 180 minutes\nIntensity: Moderate\n\nFocus:\n- 3T & 3Lo technique\, maintaining spins\n\nSchedule:\nBackwards stroking (15 min)\, 3x 3T walk-throughs into full attempts\, 5x 3Lo with delayed rotation drill\, Spin practice (15 min)\, 3x SP run-throughs\, LP second half run-through. Remaining jump quota integrated.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Ice Rink
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:On-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: On-Ice: 3T & 3Lo technique\, maintaining spins
-END:VALARM
+UID:3@gpt
+DTSTART:20251117T150000
+DTEND:20251117T160000
+SUMMARY:On-Ice Training - Foundational Control & Right-Side Awareness
+DESCRIPTION:Foundational Control & Right-Side Awareness
 END:VEVENT
 BEGIN:VEVENT
-UID:1d392d08-b9d3-42e6-8b57-d8d44184db2c@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251111T140000
-DTEND;TZID=America/New_York:20251111T160000
-SUMMARY:Off-Ice: Air position and flexibility
-DESCRIPTION:Tuesday\, November 11\, 2025\nDuration: 120 minutes\nIntensity: Moderate\n\nFocus:\n- Air position and flexibility\n\nSchedule:\nSpinner spins (60 min)\, 30 min dry land program run-throughs\, 30 min deep stretching (splits\, spirals).\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Training Facility
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:Off-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: Off-Ice: Air position and flexibility
-END:VALARM
+UID:4@gpt
+DTSTART:20251117T173000
+DTEND:20251117T180000
+SUMMARY:Off-Ice Training - Core Stability & Right-Side Activation
+DESCRIPTION:Core Stability & Right-Side Activation
 END:VEVENT
 BEGIN:VEVENT
-UID:3c57b3e9-5db5-4b24-acc1-9cb5afcbd3bb@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251112T100000
-DTEND;TZID=America/New_York:20251112T130000
-SUMMARY:On-Ice: Combination rotation (3F+3T) and 3Lz power
-DESCRIPTION:Wednesday\, November 12\, 2025\nDuration: 180 minutes\nIntensity: High\n\nFocus:\n- Combination rotation (3F+3T) and 3Lz power\n\nSchedule:\nBackwards stroking (15 min)\, 20x 3F+3T with immediate second jump takeoff\, 15x 3Lz from power crossovers\, 3x SP run-throughs under pressure (timed)\, full LP run-through.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Ice Rink
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:On-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: On-Ice: Combination rotation (3F+3T) and 3Lz power
-END:VALARM
+UID:5@gpt
+DTSTART:20251117T190000
+DTEND:20251117T193000
+SUMMARY:Off-Ice Training - Core Stability & Right-Side Activation
+DESCRIPTION:Core Stability & Right-Side Activation
 END:VEVENT
 BEGIN:VEVENT
-UID:aaa8f9fa-df42-4657-9058-e91d7410a29a@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251112T140000
-DTEND;TZID=America/New_York:20251112T160000
-SUMMARY:Off-Ice: Explosive power and rotation endurance
-DESCRIPTION:Wednesday\, November 12\, 2025\nDuration: 120 minutes\nIntensity: High\n\nFocus:\n- Explosive power and rotation endurance\n\nSchedule:\nSpinner spins (60 min)\, 30 min strength (squat jumps\, rotational medicine ball throws)\, 30 min flexibility.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Training Facility
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:Off-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: Off-Ice: Explosive power and rotation endurance
-END:VALARM
+UID:6@gpt
+DTSTART:20251117T193000
+DTEND:20251117T201500
+SUMMARY:Off-Ice Training - Core Stability & Right-Side Activation
+DESCRIPTION:Core Stability & Right-Side Activation
 END:VEVENT
 BEGIN:VEVENT
-UID:bf934752-0a00-49b3-9aae-c2dd06b865e7@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251113T100000
-DTEND;TZID=America/New_York:20251113T130000
-SUMMARY:On-Ice: Program integration and consistency
-DESCRIPTION:Thursday\, November 13\, 2025\nDuration: 180 minutes\nIntensity: Moderate\n\nFocus:\n- Program integration and consistency\n\nSchedule:\nBackwards stroking (15 min)\, 3x 3S+2A+2A+SEQ maintenance\, StSq & ChSq refinement (20 min)\, 3x SP run-throughs with component focus\, LP sectionals (critical jump sections only).\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Ice Rink
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:On-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: On-Ice: Program integration and consistency
-END:VALARM
+UID:7@gpt
+DTSTART:20251117T203000
+DTEND:20251117T213000
+SUMMARY:Off-Ice Training - Core Stability & Right-Side Activation
+DESCRIPTION:Core Stability & Right-Side Activation
 END:VEVENT
 BEGIN:VEVENT
-UID:63219955-e2b6-49ba-af1c-ff4d4f4d840b@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251113T140000
-DTEND;TZID=America/New_York:20251113T160000
-SUMMARY:Off-Ice: Recovery and mental rehearsal
-DESCRIPTION:Thursday\, November 13\, 2025\nDuration: 120 minutes\nIntensity: Low\n\nFocus:\n- Recovery and mental rehearsal\n\nSchedule:\nSpinner spins (60 min\, focus on position not speed)\, 30 min dry land program run-throughs (visualization)\, 30 min active recovery stretching.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Training Facility
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:Off-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: Off-Ice: Recovery and mental rehearsal
-END:VALARM
+UID:8@gpt
+DTSTART:20251118T113000
+DTEND:20251118T124500
+SUMMARY:On-Ice Training - Applying Control & Building Square Alignment
+DESCRIPTION:Applying Control & Building Square Alignment
 END:VEVENT
 BEGIN:VEVENT
-UID:ca1cad12-93a9-4805-9491-00fc08f1d071@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251114T100000
-DTEND;TZID=America/New_York:20251114T130000
-SUMMARY:On-Ice: Simulated competition pressure on critical elements
-DESCRIPTION:Friday\, November 14\, 2025\nDuration: 180 minutes\nIntensity: High\n\nFocus:\n- Simulated competition pressure on critical elements\n\nSchedule:\nBackwards stroking (15 min)\, Warm-up jumps\, then 3x "competition simulation" SP run-throughs (no stops). Full LP run-through with GOE targets for 3F\, 3Lz\, 3T. Spot-check remaining jump quota.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Ice Rink
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:On-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: On-Ice: Simulated competition pressure on critical elements
-END:VALARM
+UID:9@gpt
+DTSTART:20251118T140000
+DTEND:20251118T145000
+SUMMARY:On-Ice Training - Applying Control & Building Square Alignment
+DESCRIPTION:Applying Control & Building Square Alignment
 END:VEVENT
 BEGIN:VEVENT
-UID:d4d8ce24-c1b4-491a-b039-2d9bd2108698@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251114T140000
-DTEND;TZID=America/New_York:20251114T160000
-SUMMARY:Off-Ice: Full body conditioning
-DESCRIPTION:Friday\, November 14\, 2025\nDuration: 120 minutes\nIntensity: Moderate\n\nFocus:\n- Full body conditioning\n\nSchedule:\nSpinner spins (60 min)\, 30 min full-body circuit workout\, 30 min flexibility.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Training Facility
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:Off-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: Off-Ice: Full body conditioning
-END:VALARM
+UID:10@gpt
+DTSTART:20251118T150000
+DTEND:20251118T160000
+SUMMARY:On-Ice Training - Applying Control & Building Square Alignment
+DESCRIPTION:Applying Control & Building Square Alignment
 END:VEVENT
 BEGIN:VEVENT
-UID:862be63c-dd79-4b00-b9f1-246690681ca9@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251115T100000
-DTEND;TZID=America/New_York:20251115T123000
-SUMMARY:On-Ice: Stamina and execution under fatigue
-DESCRIPTION:Saturday\, November 15\, 2025\nDuration: 150 minutes\nIntensity: Peak\n\nFocus:\n- Stamina and execution under fatigue\n\nSchedule:\nBackwards stroking (15 min)\, Full LP run-through at start of session\, 3x SP run-throughs back-to-back\, execute remaining weekend jump quota focusing on quality when tired.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Ice Rink
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:On-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: On-Ice: Stamina and execution under fatigue
-END:VALARM
+UID:11@gpt
+DTSTART:20251118T173000
+DTEND:20251118T180000
+SUMMARY:Off-Ice Training - Rotational Axis & Flexibility
+DESCRIPTION:Rotational Axis & Flexibility
 END:VEVENT
 BEGIN:VEVENT
-UID:4e6a94c7-3ee9-43a2-825f-e66500c3c0a5@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251115T140000
-DTEND;TZID=America/New_York:20251115T160000
-SUMMARY:Off-Ice: Power endurance and recovery
-DESCRIPTION:Saturday\, November 15\, 2025\nDuration: 120 minutes\nIntensity: Moderate\n\nFocus:\n- Power endurance and recovery\n\nSchedule:\nSpinner spins (60 min)\, 30 min dry land program run-throughs\, 30 min deep stretching and foam rolling.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Training Facility
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:Off-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: Off-Ice: Power endurance and recovery
-END:VALARM
+UID:12@gpt
+DTSTART:20251118T190000
+DTEND:20251118T193000
+SUMMARY:Off-Ice Training - Rotational Axis & Flexibility
+DESCRIPTION:Rotational Axis & Flexibility
 END:VEVENT
 BEGIN:VEVENT
-UID:4c253e0d-d79f-4cbc-a3cc-126bae351f1a@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251116T100000
-DTEND;TZID=America/New_York:20251116T120000
-SUMMARY:On-Ice: Active recovery and technical refinement
-DESCRIPTION:Sunday\, November 16\, 2025\nDuration: 120 minutes\nIntensity: Low\n\nFocus:\n- Active recovery and technical refinement\n\nSchedule:\nBackwards stroking (15 min)\, Low-repetition\, high-quality attempts of 3F\, 3Lz\, 3T (2-3 reps each with video review)\, 1x SP and 1x LP skate-through (no jumps)\, spin and step sequence polish.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Ice Rink
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:On-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: On-Ice: Active recovery and technical refinement
-END:VALARM
+UID:13@gpt
+DTSTART:20251118T193000
+DTEND:20251118T201500
+SUMMARY:Off-Ice Training - Rotational Axis & Flexibility
+DESCRIPTION:Rotational Axis & Flexibility
 END:VEVENT
 BEGIN:VEVENT
-UID:e5afb4d6-b669-4307-90dd-90d06f46a284@lumi-skating-assistant.com
-DTSTAMP:20251110T160414Z
-DTSTART;TZID=America/New_York:20251116T140000
-DTEND;TZID=America/New_York:20251116T160000
-SUMMARY:Off-Ice: Flexibility and week-in-review
-DESCRIPTION:Sunday\, November 16\, 2025\nDuration: 120 minutes\nIntensity: Recovery\n\nFocus:\n- Flexibility and week-in-review\n\nSchedule:\nSpinner spins (60 min\, slow and controlled)\, 30 min light stretching\, 30 min video analysis of the week's progress with coach.\n\nNotes:\n1.  **Speed as the Engine:**\n    *   **Primary Action:** Execute your "Progressive Power Pulls" drill with an artistic focus. Feel the rhythm of the push and glide. The goal isn't just speed\; it's quiet speed\, driven from deep knee bend and core power.\n    *   **Off-Ice Link:** Your Single-Leg Box Jumps directly build the explosive power for this. Connect the feeling of loading and exploding in the gym to your on-ice stroking.\n    *   **What Judges See:** Unmistakable ice command and deep\, pure edges from the start. This sets the tone for the entire program.\n2.  **Transform Technical Elements into Artistry:**\n    *   **Goal:** Transform technical elements into moments of high artistry through superior control.\n    *   **Primary Action 1 (Spirals):** Integrate the "Banded Standing Arabesques" feeling into your on-ice High-Extension Spiral. Use the "Brace" cue to stabilize the core\, creating a dramatic\, unwavering line that commands attention.\n    *   **Primary Action 2 (Landings):** Treat every jump landing as a PCS drill. The "Brace and Square" cue is our tool to eliminate scrappy landings. A clean\, silent landing with immediate flow is a massive PCS win. This week\, we hold the landing edge for a full two counts on all solo jumps in practice.\n    *   **What Judges See:** Confidence\, control\, and extension. They see a skater who isn't just surviving elements but is performing through them.\n3.  **Maintain PCS Quality to the End:**\n    *   **Goal:** Maintain PCS quality through the end of the program\, proving stamina and thoughtful construction.\n    *   **Primary Action:** During your "back-half" run-throughs\, the focus is zero hesitation between elements. The transitions must look as rehearsed and intentional as the jumps. Use your "Attention Control Training" (breathing anchor) before these runs to lock in your focus on flow\, not just survival.\n    *   **Off-Ice Link:** This is where your conditioning work pays off. The goal is to finish the program with the same edge depth and upper-body carriage you started with.\n    *   **What Judges See:** A complete\, well-thought-out program skated with intent from start to finish. They reward skaters who look as strong at the end as they do at the beginning.
-LOCATION:Training Facility
-STATUS:CONFIRMED
-PRIORITY:5
-CATEGORIES:Off-Ice Training,Figure Skating
-COLOR:#FFC107
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:Training session in 30 minutes: Off-Ice: Flexibility and week-in-review
-END:VALARM
+UID:14@gpt
+DTSTART:20251118T203000
+DTEND:20251118T213000
+SUMMARY:Off-Ice Training - Rotational Axis & Flexibility
+DESCRIPTION:Rotational Axis & Flexibility
+END:VEVENT
+BEGIN:VEVENT
+UID:15@gpt
+DTSTART:20251119T113000
+DTEND:20251119T124500
+SUMMARY:On-Ice Training - Vertical Lift & Entry Speed
+DESCRIPTION:Vertical Lift & Entry Speed
+END:VEVENT
+BEGIN:VEVENT
+UID:16@gpt
+DTSTART:20251119T140000
+DTEND:20251119T145000
+SUMMARY:On-Ice Training - Vertical Lift & Entry Speed
+DESCRIPTION:Vertical Lift & Entry Speed
+END:VEVENT
+BEGIN:VEVENT
+UID:17@gpt
+DTSTART:20251119T150000
+DTEND:20251119T160000
+SUMMARY:On-Ice Training - Vertical Lift & Entry Speed
+DESCRIPTION:Vertical Lift & Entry Speed
+END:VEVENT
+BEGIN:VEVENT
+UID:18@gpt
+DTSTART:20251119T173000
+DTEND:20251119T180000
+SUMMARY:Off-Ice Training - Explosive Power & Core
+DESCRIPTION:Explosive Power & Core
+END:VEVENT
+BEGIN:VEVENT
+UID:19@gpt
+DTSTART:20251119T190000
+DTEND:20251119T193000
+SUMMARY:Off-Ice Training - Explosive Power & Core
+DESCRIPTION:Explosive Power & Core
+END:VEVENT
+BEGIN:VEVENT
+UID:20@gpt
+DTSTART:20251119T193000
+DTEND:20251119T201500
+SUMMARY:Off-Ice Training - Explosive Power & Core
+DESCRIPTION:Explosive Power & Core
+END:VEVENT
+BEGIN:VEVENT
+UID:21@gpt
+DTSTART:20251119T203000
+DTEND:20251119T213000
+SUMMARY:Off-Ice Training - Explosive Power & Core
+DESCRIPTION:Explosive Power & Core
+END:VEVENT
+BEGIN:VEVENT
+UID:22@gpt
+DTSTART:20251120T113000
+DTEND:20251120T124500
+SUMMARY:On-Ice Training - Combination Foundations & Landing Squareness
+DESCRIPTION:Combination Foundations & Landing Squareness
+END:VEVENT
+BEGIN:VEVENT
+UID:23@gpt
+DTSTART:20251120T140000
+DTEND:20251120T145000
+SUMMARY:On-Ice Training - Combination Foundations & Landing Squareness
+DESCRIPTION:Combination Foundations & Landing Squareness
+END:VEVENT
+BEGIN:VEVENT
+UID:24@gpt
+DTSTART:20251120T150000
+DTEND:20251120T160000
+SUMMARY:On-Ice Training - Combination Foundations & Landing Squareness
+DESCRIPTION:Combination Foundations & Landing Squareness
+END:VEVENT
+BEGIN:VEVENT
+UID:25@gpt
+DTSTART:20251120T173000
+DTEND:20251120T180000
+SUMMARY:Off-Ice Training - Active Recovery & Mental Rehearsal
+DESCRIPTION:Active Recovery & Mental Rehearsal
+END:VEVENT
+BEGIN:VEVENT
+UID:26@gpt
+DTSTART:20251120T190000
+DTEND:20251120T193000
+SUMMARY:Off-Ice Training - Active Recovery & Mental Rehearsal
+DESCRIPTION:Active Recovery & Mental Rehearsal
+END:VEVENT
+BEGIN:VEVENT
+UID:27@gpt
+DTSTART:20251120T193000
+DTEND:20251120T201500
+SUMMARY:Off-Ice Training - Active Recovery & Mental Rehearsal
+DESCRIPTION:Active Recovery & Mental Rehearsal
+END:VEVENT
+BEGIN:VEVENT
+UID:28@gpt
+DTSTART:20251120T203000
+DTEND:20251120T213000
+SUMMARY:Off-Ice Training - Active Recovery & Mental Rehearsal
+DESCRIPTION:Active Recovery & Mental Rehearsal
+END:VEVENT
+BEGIN:VEVENT
+UID:29@gpt
+DTSTART:20251121T113000
+DTEND:20251121T124500
+SUMMARY:On-Ice Training - Synthesis & Integration
+DESCRIPTION:Synthesis & Integration
+END:VEVENT
+BEGIN:VEVENT
+UID:30@gpt
+DTSTART:20251121T140000
+DTEND:20251121T145000
+SUMMARY:On-Ice Training - Synthesis & Integration
+DESCRIPTION:Synthesis & Integration
+END:VEVENT
+BEGIN:VEVENT
+UID:31@gpt
+DTSTART:20251121T150000
+DTEND:20251121T160000
+SUMMARY:On-Ice Training - Synthesis & Integration
+DESCRIPTION:Synthesis & Integration
+END:VEVENT
+BEGIN:VEVENT
+UID:32@gpt
+DTSTART:20251121T173000
+DTEND:20251121T180000
+SUMMARY:Off-Ice Training - Recovery & Planning
+DESCRIPTION:Recovery & Planning
+END:VEVENT
+BEGIN:VEVENT
+UID:33@gpt
+DTSTART:20251121T190000
+DTEND:20251121T193000
+SUMMARY:Off-Ice Training - Recovery & Planning
+DESCRIPTION:Recovery & Planning
+END:VEVENT
+BEGIN:VEVENT
+UID:34@gpt
+DTSTART:20251121T193000
+DTEND:20251121T201500
+SUMMARY:Off-Ice Training - Recovery & Planning
+DESCRIPTION:Recovery & Planning
+END:VEVENT
+BEGIN:VEVENT
+UID:35@gpt
+DTSTART:20251121T203000
+DTEND:20251121T213000
+SUMMARY:Off-Ice Training - Recovery & Planning
+DESCRIPTION:Recovery & Planning
 END:VEVENT
 END:VCALENDAR
